@@ -41,7 +41,8 @@ stack'leri yaklaşık 0.15 MSE geçti, yani gizli kümeye de transfer etti. *(§
   anlatısı (9 bölüm). **Çıktılar gömülü**, yani defteri çalıştırmadan baştan sona okuyabilir, tüm tablo ve
   grafikleri görebilirsiniz.
 - Yarışma verisi (Kaggle `datathon-2026`) yarışmaya özeldir ve burada paylaşılmamıştır. Defter, 23 modeli
-  canlı eğitmek yerine kayıtlı ara çıktılar (üye OOF/test tahminleri) üzerinden anlatıyı yeniden üretir.
+  canlı eğitmek yerine kayıtlı ara çıktılar üzerinden hazırlanmıştır ve çıktılar gömülü olduğu için doğrudan okunabilir.
+- Defterde geçen `src/...`, `reports/...`, `kernels/...` yolları çözümün tam proje deposuna yapılan izlenebilirlik referanslarıdır; bu özette yer almazlar.
 
 ## Çalıştırma
 
